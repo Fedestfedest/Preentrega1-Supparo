@@ -41,7 +41,7 @@ function tieneLaContraseniaValoresAlfanumericos (contrasenia) {
 
 
 let usuarioConEmail = "Federico12345gmail.com"
-let contasenia = "Fedes1"
+let contasenia = "Fede"
 
 
 let nombreUsuario = prompt ("Ingrese su Nombre")
